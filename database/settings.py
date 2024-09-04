@@ -1,0 +1,5 @@
+MYSQL_HOST = "127.0.0.1"
+MYSQL_USER = "root"
+MYSQL_PASSWORD = "Ripam@123"
+MYSQL_DB = "product"
+MYSQL_PORT = "3306"
